@@ -1,0 +1,35 @@
+com/rickandmortyapi/ApiModel.java
+ com.rickandmortyapi.ApiModel
+com/rickandmortyapi/util/Urls.java
+ com.rickandmortyapi.util.Urls
+com/rickandmortyapi/util/PostConstructAdapterFactory.java
+ com.rickandmortyapi.util.PostConstructAdapterFactory
+ com.rickandmortyapi.util.PostConstructAdapterFactory$PostConstructAdapter
+com/rickandmortyapi/ApiRequest.java
+ com.rickandmortyapi.ApiRequest
+com/rickandmortyapi/ApiResponse.java
+ com.rickandmortyapi.ApiResponse
+com/rickandmortyapi/util/LocalDateTypeAdapter.java
+ com.rickandmortyapi.util.LocalDateTypeAdapter
+com/rickandmortyapi/ApiException.java
+ com.rickandmortyapi.ApiException
+com/rickandmortyapi/RestClient.java
+ com.rickandmortyapi.RestClient
+com/rickandmortyapi/Location.java
+ com.rickandmortyapi.Location
+ com.rickandmortyapi.Location$1
+ com.rickandmortyapi.Location$CollectionTypeToken
+com/rickandmortyapi/Episode.java
+ com.rickandmortyapi.Episode
+ com.rickandmortyapi.Episode$1
+ com.rickandmortyapi.Episode$CollectionTypeToken
+com/rickandmortyapi/Character.java
+ com.rickandmortyapi.Character
+ com.rickandmortyapi.Character$1
+ com.rickandmortyapi.Character$CollectionTypeToken
+ com.rickandmortyapi.Character$Gender
+ com.rickandmortyapi.Character$Status
+com/rickandmortyapi/util/Jsons.java
+ com.rickandmortyapi.util.Jsons
+com/rickandmortyapi/util/ZonedDateTimeTypeAdapter.java
+ com.rickandmortyapi.util.ZonedDateTimeTypeAdapter

@@ -1,0 +1,6 @@
+com/rickandmortyapi/CharacterTest.java
+ com.rickandmortyapi.CharacterTest
+com/rickandmortyapi/LocationTest.java
+ com.rickandmortyapi.LocationTest
+com/rickandmortyapi/EpisodeTest.java
+ com.rickandmortyapi.EpisodeTest
